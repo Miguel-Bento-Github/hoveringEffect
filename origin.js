@@ -1,0 +1,6 @@
+const content = {
+    monet: "In 1845, at the age of 5, Monet moved with his family to Le Havre, a port town in the Normandy region. He grew up there with his older brother, Leon. While he was reportedly a decent student, Monet did not like being confined to a classroom. He was more interested in being outside. At an early age, Monet developed a love of drawing. He filled his schoolbooks with sketches of people, including caricatures of his teachers. While his mother supported his artistic efforts, Monet's father wanted him to go into business. Monet suffered greatly after the death of his mother in 1857.",
+    george: "George Westinghouse was one of the most prolific inventors and businessmen of the Industrial Revolution. After serving in the Union Army and Navy, he patented several devices, particularly for railroads. He would eventually start the Westinghouse Electric & Manufacturing Company to improve alternating current (AC) power generators.",
+    aaron: "Aaron Swartz was a tech whiz-kid and political activist devoted to a free and open internet. When he tried to 'liberate' data from an academic website, US authorities responded fiercely. He faced a fine of up to $1m and 35 years in jail. Then he took his own life. Here, his former girlfriend talks about the circumstances of his death"
+};
+export default content;
